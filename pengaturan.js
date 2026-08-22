@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Taman Storia",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyBo27LkyD3M3gDNXLV90AJIY1FsA0X6Ol4",
     whatsappAdmin: "082156210121" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
